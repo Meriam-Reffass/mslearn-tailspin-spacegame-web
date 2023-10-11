@@ -1,5 +1,4 @@
-déclencheur:
-- principal
+
 
 pool:
  vmImage: ubuntu-latest
